@@ -24,6 +24,6 @@ update-rc.d hhvm defaults
 # Restart services
 service nginx restart
 service hhvm restart
-service mysqld restart
+service mysql restart
 
 # Done!
